@@ -2,17 +2,17 @@
 
 #OSInnovation
 
-How can open science benefit society at large?
+_How can open science benefit society at large?_
 
 In this theme we will examine a number of open science areas and projects aimed at bringing tangible benefits through new R&D practices to the public at large. 
 
-To give examples of the types of open science practice we will be looking at here are a couple of exemplar initiatives: Libre Space developing micro satellites for democratising space use and keeping the space technology open, and then in the area of medicine and health care systems with initiatives like Open Source Malaria looking to drive disease control. 
+To give examples of the types of open science practice we will be looking at here are a couple of exemplar initiatives: [https://libre.space/](Libre Space) developing micro satellites for democratising space use and keeping the space technology open, and then in the area of medicine and health care systems with initiatives like [Open Source Malaria](http://opensourcemalaria.org/) looking to drive disease control. 
 
 There is a push from academia for Open Science and Open Access to improve science and scholarship, both of which have proven benefits. In addition there is a pull from outside of academia where there are demands for academia to open up from a wide variety of sectors embracing digital transformation — who are using ideas related to knowledge economies and open innovation. 
 
 In these areas of interfacing academia and a variety of publics as either professionals or the wider public we will be looking for new models for improving knowledge transfer, as well as wider and deeper participation.
 
-There is an open call to contribute (Nov 2019) and you can find out more at the links below. Any questions or comments please DM @Gen_R_ or email simon@genr.eu 
+There is an open call to contribute (Nov 2019) and you can find out more at the links below. Any questions or comments please DM [@Gen_R_](https://twitter.com/Gen_R_) or email [simon@genr.eu](mailto:simon@genr.eu) 
 
 ## Links
 
