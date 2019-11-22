@@ -1,6 +1,6 @@
 # Innovation: The Open Science Dividend — A GenR Theme
 
-#OSInnovation
+[#OSInnovation](https://twitter.com/search?q=%23OSInnovation&src=typed_query&f=live)
 
 _How can open science benefit society at large?_
 
